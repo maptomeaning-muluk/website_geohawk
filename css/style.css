@@ -379,8 +379,6 @@ nav a:hover{color:var(--green);background:var(--soft)}
 .ci .ico{width:48px;height:48px}
 .ci small{display:block;font-size:.8rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .ci .v{font-weight:800;color:var(--ink);font-size:1.15rem;overflow-wrap:anywhere;user-select:all}
-.ci a.v{text-decoration:none;transition:color .15s}
-.ci a.v:hover{color:var(--green);text-decoration:underline}
 .copy{font:700 .86rem var(--f);background:var(--green-tint);color:#0F6B3B;border:0;padding:9px 14px;border-radius:999px;cursor:pointer}
 .copy:hover{background:var(--green);color:#fff}
 form.card{padding:clamp(22px,3vw,34px);display:grid;gap:16px}

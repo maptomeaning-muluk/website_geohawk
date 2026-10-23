@@ -50,8 +50,9 @@ AFTER UPLOADING (OPTIONAL BUT RECOMMENDED)
 
 HOW TO EDIT LATER
 -----------------
-- Phone / email / WhatsApp: simply open js/config.js and change the values in SITE_CONFIG.
-  Changes there will automatically update all phone numbers, WhatsApp links, email links, and buttons across the entire website.
+- Text: open index.html in File Manager > Edit, find the sentence, change it, Save.
+- Phone / email: search index.html for 7028478109 and geohawkaerials@gmail.com.
+  (The WhatsApp number is also in js/main.js; search for 917028478109.)
 - Photos: upload a new photo into images/photos/ with the SAME file name to replace an old one.
 - Colours: the first lines of css/style.css (":root") hold all brand colours.
 After any change, press Ctrl + F5 to see it.
